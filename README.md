@@ -1,5 +1,5 @@
 # E-commerce--html
-#![](http://imgur.com/t3teAxi.png)
+![](http://imgur.com/t3teAxi.png)
 
 # E-commerce Demo
 
